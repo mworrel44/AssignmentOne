@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>01FCC985-B122-430D-A58D-116C85CC5C5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01FCC985-B122-430D-A58D-116C85CC5C5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Assignment One project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Assignment One</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Assignment One</string>
+			<key>timeStartedRecording</key>
+			<real>630620656.60948002</real>
+			<key>timeStoppedRecording</key>
+			<real>630620657.89704704</real>
+			<key>title</key>
+			<string>Build for Previews Assignment One</string>
+			<key>uniqueIdentifier</key>
+			<string>01FCC985-B122-430D-A58D-116C85CC5C5A</string>
+		</dict>
+		<key>7DF58A70-46AA-41BD-ACD2-D9F9AF15D46A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DF58A70-46AA-41BD-ACD2-D9F9AF15D46A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Assignment One project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Assignment One</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Assignment One</string>
+			<key>timeStartedRecording</key>
+			<real>630611623.432284</real>
+			<key>timeStoppedRecording</key>
+			<real>630611628.34070897</real>
+			<key>title</key>
+			<string>Build for Previews Assignment One</string>
+			<key>uniqueIdentifier</key>
+			<string>7DF58A70-46AA-41BD-ACD2-D9F9AF15D46A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
