@@ -2,8 +2,6 @@
 //  Assignment_OneTests.swift
 //  Assignment OneTests
 //
-//  Created by Santiago Gutierrez on 12/25/20.
-//
 
 import XCTest
 @testable import Assignment_One

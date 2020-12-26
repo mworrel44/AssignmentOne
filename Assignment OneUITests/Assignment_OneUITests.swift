@@ -2,8 +2,6 @@
 //  Assignment_OneUITests.swift
 //  Assignment OneUITests
 //
-//  Created by Santiago Gutierrez on 12/25/20.
-//
 
 import XCTest
 
